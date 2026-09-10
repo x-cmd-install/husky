@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.7"
   latestRelease: "v9.1.7"
   latestPrerelease: "v5.0.0-alpha.5"
-  collectedAt: 2026-09-10T21:13:05Z
+  collectedAt: 2026-09-10T22:39:16Z
 timeline:
   created: 2014-06-23
   lastCommit: 2026-03-19
@@ -84,7 +84,7 @@ total:
   commit: 1001
 ---
 path: /home/runner/.x-repo/github.com/typicode/husky
-collectedAt: 2026-09-10T21:13:06Z
+collectedAt: 2026-09-10T22:39:17Z
 loc:
   Json:
     code: 2971
