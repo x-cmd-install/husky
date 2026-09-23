@@ -4,7 +4,7 @@
 
 Git hooks made easy 🐶 woof!
 
-[![x-cmd/install — husky Code Quality Monitoring Repo Card](https://repo.x-cmd.io/husky.svg)](https://x-cmd.com/install/husky)
+[![x-cmd/install — husky Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/husky.svg)](https://x-cmd.com/install/husky)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 35,328 · **Forks**: 1,097 · **Open issues**: 1,114 · **Contributors**: 132
+- **Stars**: 35,330 · **Forks**: 1,097 · **Open issues**: 1,114 · **Contributors**: 132
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 1 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 4 | 1 | 1 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 6 | 16 | 7 | 7 |
-| last720d | 2024-10-02 | 1 | 3 | 15 | 28 | 44 | 13 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 4 | 1 | 1 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 6 | 16 | 7 | 7 |
+| last720d | 2024-10-03 | 1 | 3 | 15 | 28 | 44 | 13 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for husky lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:44:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:45:03Z._
