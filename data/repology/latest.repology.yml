@@ -1,0 +1,104 @@
+- repo: nix_stable_24_11
+  srcname: husky
+  visiblename: husky
+  version: 8.0.3
+  origversion: null
+  status: outdated
+  summary: "Git hooks made easy \U0001F436 woof!"
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: husky
+  visiblename: husky
+  version: 8.0.3
+  origversion: null
+  status: outdated
+  summary: "Git hooks made easy \U0001F436 woof!"
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: husky
+  visiblename: husky
+  version: 8.0.3
+  origversion: null
+  status: outdated
+  summary: Git hooks made easy
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: aur
+  srcname: husky
+  binname: husky
+  visiblename: husky
+  version: 9.1.7
+  origversion: 9.1.7-1
+  status: newest
+  summary: "Git hooks made easy \U0001F436 woof!"
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: husky-git
+  binname: husky-git
+  visiblename: husky-git
+  version: r3410.d18b6911
+  origversion: r3410.d18b6911-1
+  status: rolling
+  summary: 'Husky Fido Tosser hpt: Complete bundle'
+  maintainers:
+    - el_aur@aur
+  licenses:
+    - GPL
+- repo: freebsd
+  srcname: news/husky
+  binname: husky
+  visiblename: news/husky
+  version: 1.9.20201211
+  origversion: 1.9.20201211_1
+  status: outdated
+  summary: Husky full featured highly portable FTN Tosser
+  maintainers:
+    - osharoiko@gmail.com
+  categories:
+    - news
+- repo: nix_stable_24_05
+  srcname: husky
+  visiblename: husky
+  version: 8.0.3
+  origversion: null
+  status: outdated
+  summary: "Git hooks made easy \U0001F436 woof!"
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: husky
+  visiblename: husky
+  version: 9.1.7
+  origversion: null
+  status: newest
+  summary: Git hooks made easy
+  maintainers:
+    - iamanaws@httpd.dev
+    - florian.richer@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: husky
+  visiblename: husky
+  version: 9.1.7
+  origversion: null
+  status: newest
+  summary: Git hooks made easy
+  maintainers:
+    - iamanaws@httpd.dev
+    - florian.richer@protonmail.com
+  licenses:
+    - MIT
