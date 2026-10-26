@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 35,360 · **Forks**: 1,100 · **Open issues**: 1,114 · **Contributors**: 132
+- **Stars**: 35,361 · **Forks**: 1,101 · **Open issues**: 1,114 · **Contributors**: 132
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 263 · **Open PRs**: 27 · **Closed issues**: 1033 · **Open issues**: 81 · **Commits**: 1001
+- **Releases**: 80 · **Merged PRs**: 263 · **Open PRs**: 28 · **Closed issues**: 1033 · **Open issues**: 81 · **Commits**: 1001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 0 | 0 | 5 | 1 | 1 | 0 |
-| 360d | 2025-10-30 | 0 | 0 | 7 | 1 | 6 | 6 |
-| last720d | 2024-11-04 | 1 | 3 | 13 | 26 | 43 | 13 |
+| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 0 | 0 | 6 | 1 | 1 | 0 |
+| 360d | 2025-10-31 | 0 | 0 | 8 | 1 | 6 | 6 |
+| last720d | 2024-11-05 | 1 | 3 | 14 | 26 | 43 | 13 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for husky lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:29:11Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:33:02Z._
