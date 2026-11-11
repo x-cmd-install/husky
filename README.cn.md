@@ -30,8 +30,8 @@ x install husky
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
 ## 源代码
@@ -47,7 +47,7 @@ x install husky
 
 ## 流行度
 
-- **Star**: 35,385 · **Fork**: 1,102 · **开放 issue**: 1,114 · **贡献者**: 132
+- **Star**: 35,388 · **Fork**: 1,103 · **开放 issue**: 1,114 · **贡献者**: 132
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install husky
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 0 | 0 | 6 | 1 | 1 | 0 |
-| 360d | 2025-11-15 | 0 | 0 | 7 | 1 | 5 | 6 |
-| last720d | 2024-11-20 | 0 | 2 | 14 | 25 | 42 | 8 |
+| 30d | 2026-10-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 0 | 0 | 6 | 1 | 1 | 0 |
+| 360d | 2025-11-16 | 0 | 0 | 7 | 1 | 5 | 6 |
+| last720d | 2024-11-21 | 0 | 2 | 14 | 25 | 42 | 8 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ husky 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:08:40Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T05:58:04Z._
