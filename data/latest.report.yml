@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.7"
   latestRelease: "v9.1.7"
   latestPrerelease: "v5.0.0-alpha.5"
-  collectedAt: 2026-11-27T08:16:33Z
+  collectedAt: 2026-11-28T07:36:06Z
 timeline:
   created: 2014-06-23
   lastCommit: 2026-03-19
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2024-11-18
   lastPrerelease: 2020-09-22
 popularity:
-  star: 35403
+  star: 35404
   watcher: 153
   fork: 1105
   release: 80
   contributor: 132
-  pullRequest: 474
+  pullRequest: 475
   issue: 1114
 language:
   JavaScript: 6395
@@ -28,7 +28,7 @@ language:
 totalBytes: 6946
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -36,7 +36,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 3
@@ -44,7 +44,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 3
@@ -52,7 +52,7 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 5
@@ -60,15 +60,15 @@ recent:
     openIssue: 1
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 7
     closedIssue: 1
     openIssue: 5
-    commit: 0
+    commit: 6
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 1
     openPR: 15
@@ -78,13 +78,13 @@ recent:
 total:
   release: 80
   mergedPR: 263
-  openPR: 29
+  openPR: 30
   closedIssue: 1033
   openIssue: 81
   commit: 1001
 ---
 path: /home/runner/.x-repo/github.com/typicode/husky
-collectedAt: 2026-11-27T08:16:34Z
+collectedAt: 2026-11-28T07:36:07Z
 loc:
   Json:
     code: 2971
